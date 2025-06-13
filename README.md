@@ -34,7 +34,7 @@ Here are some highlights of my recent work:
 -   **💬 Streamlit Churn Prediction:** A project demonstrating customer churn prediction using Streamlit for visualization.
     -   [Repository Link: streamlit_churn_prediction](https://github.com/palmyz000/streamlit_churn_prediction)
       
--   **💬 PHQ-9 Speech to text: Speech and Text Data Analysis for Depression:** This project focused on analyzing depressive states. The model using OpenAI's Whisper for Speech-to-Text. Using Natural Language Processing (NLP) principles, employing Transformer models for sentiment analysis to analyze the risk of depression.
+-   **📋 PHQ-9 Speech to text: Speech and Text Data Analysis for Depression:** This project focused on analyzing depressive states. The model using OpenAI's Whisper for Speech-to-Text. Using Natural Language Processing (NLP) principles, employing Transformer models for sentiment analysis to analyze the risk of depression.
 
 
 
