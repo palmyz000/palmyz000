@@ -13,7 +13,7 @@ I'm a passionate and aspiring Data Scientist with a solid foundation in **Comput
 **What I Do:**
 
 -   **Data Analysis & Visualization:** 📈 Uncovering trends and patterns through exploratory data analysis (EDA) and presenting them effectively with tools like Matplotlib, Seaborn, and Plotly.
--   **Machine Learning:** 🤖 Building and deploying predictive models (Regression, Classification) using scikit-learn, TensorFlow/Keras, and PyTorch.
+-   **Machine Learning:** 🤖 Building and deploying predictive models (Regression, Classification) using scikit-learn, TensorFlow/Keras.
 -   **Data Preprocessing:** 🧹 Proficient in cleaning, transforming, and preparing complex datasets for machine learning applications.
 -   **Web Application Development:** 💻 Creating interactive data applications and dashboards using Streamlit.
 -   **Programming Languages:** Python (primary), SQL.
@@ -44,9 +44,9 @@ Here are some highlights of my recent work:
 **I'm currently learning and interested in:**
 
 -   Deep Learning architectures (CNNs, RNNs, Transformers)
--   Cloud platforms for ML (AWS Sagemaker, Google Cloud AI Platform)
--   Big Data technologies (Spark, Hadoop)
--   Data Visualization (Poer BI, Tableau)
+-   Cloud platforms for ML (Google Cloud)
+-   Big Data technologies (pySpark)
+-   Data Visualization (Power BI, Tableau)
 
 ---
 
