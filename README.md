@@ -46,7 +46,8 @@ Here are some highlights of my recent work:
 -   Deep Learning architectures (CNNs, RNNs, Transformers)
 -   Cloud platforms for ML (Google Cloud)
 -   Big Data technologies (pySpark)
--   Data Visualization (Power BI, Tableau)
+-   Data Visualization (Power BI, Matplotlib, Seaborn)
+-   MLOps (Docker, k8s, CI/CD, MLflow)
 
 ---
 
