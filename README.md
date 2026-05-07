@@ -50,10 +50,10 @@ Here are some highlights of my recent work:
 
 **Let's Connect!**
 
-- * 📧 **Email:** Suphawit11@icloud.com
-- * 🔗 **LinkedIn:** [Suphawit MeeSak](https://www.linkedin.com/in/suphawit-meesak/)
-- * 💻 **GitHub:** [palmyz000](https://github.com/palmyz000)
-- * 🤗 **Hugging Face:** [palmyz0](https://huggingface.co/palmyz0)
-- * 🌐 **Portfolio:** [suphawit-portfolio.vercel.app](https://palmyz0-portfolio.vercel.app/)
+-  📧 **Email:** Suphawit11@icloud.com
+-  🔗 **LinkedIn:** [Suphawit MeeSak](https://www.linkedin.com/in/suphawit-meesak/)
+-  💻 **GitHub:** [palmyz000](https://github.com/palmyz000)
+-  🤗 **Hugging Face:** [palmyz0](https://huggingface.co/palmyz0)
+-  🌐 **Portfolio:** [suphawit-portfolio.vercel.app](https://palmyz0-portfolio.vercel.app/)
 
 ---
